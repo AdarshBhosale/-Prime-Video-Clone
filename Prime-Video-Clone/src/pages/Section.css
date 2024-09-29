@@ -1,0 +1,34 @@
+section{
+    padding: 0 0 0 4%;
+    position: relative;
+}
+.sec-left{
+    position: absolute;
+    margin-left: -101px;
+    margin-top: 50px;
+}
+
+.sec-heading{
+    font-size: 40px;
+    padding-bottom: 4vh;
+}
+
+.sec-desc{
+    font-size: 22px;
+    padding-bottom: 6vh;
+}
+.sec-right{
+    width: 88vw;
+}
+.sec-right img{
+    width: 100%;
+}
+.sec-left a{
+    background-color: #0f79af;
+    color: #fff;
+    padding: 12px 36px;
+    font-size: 20px;
+font-weight: bold;
+border-radius: 4px;
+
+}
